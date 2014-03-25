@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"new:with:and:" : "SH 2/7/2013 23:52:15.631",
+		"newColorSet" : "SH 1/13/2013 13:47:15.754" },
+	"instance" : {
+		"activate" : "SH 1/13/2013 13:42:23.753",
+		"activate:" : "SH 1/13/2013 13:42:29.544",
+		"addBlackShadow" : "SH 1/14/2013 17:46:50.313",
+		"addCardImage:" : "SH 2/7/2013 23:53:12.298",
+		"addPicture:" : "SH 2/8/2013 00:04:03.583",
+		"baseColor" : "SH 1/13/2013 13:44:24.353",
+		"baseColor:" : "SH 1/13/2013 13:44:30.699",
+		"calculateNextColor" : "SH 2/8/2013 00:09:40.421",
+		"clickedOnStudentCard" : "SH 1/13/2013 13:45:10.486",
+		"colorSet" : "SH 1/13/2013 13:45:17.773",
+		"colorSet:" : "SH 1/13/2013 13:45:22.736",
+		"contract" : "SH 2/7/2013 23:57:16.401",
+		"initializeSelf" : "SH 2/7/2013 23:58:41.106",
+		"initializeWith:and:" : "SH 2/8/2013 00:03:53.172",
+		"lastColor" : "SH 1/13/2013 13:46:10.048",
+		"lastColor:" : "SH 1/13/2013 13:46:13.957",
+		"picture" : "SH 1/13/2013 13:46:19.344",
+		"picture:" : "SH 1/13/2013 13:46:23.893",
+		"setActivate" : "SH 1/13/2013 13:46:34.57" } }

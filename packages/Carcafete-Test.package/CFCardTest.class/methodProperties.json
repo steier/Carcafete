@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCreate" : "JJ 12/31/2012 18:03:05.6",
+		"testCreateWithGraphics" : "JJ 1/10/2013 15:32:53.126",
+		"testObjects" : "JJ 12/31/2012 18:03:05.589",
+		"testRotate" : "SH 2/7/2013 19:24:12.111",
+		"testSetFigures" : "JJ 1/10/2013 15:32:59.541",
+		"testtestSetFigures" : "JS 1/4/2013 13:48:50.016" } }

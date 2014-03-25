@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"cardDirection:" : "SH 2/7/2013 23:44:28.811",
+		"cardOffset:" : "SH 2/7/2013 23:35:14.347",
+		"figureOffset:" : "SH 2/7/2013 23:35:47.467",
+		"fourDirections" : "SH 1/13/2013 13:18:43.572",
+		"getLeftOf:" : "SH 2/7/2013 23:43:55.768",
+		"getRightOf:" : "SH 1/13/2013 13:19:41.263",
+		"initializeDictWithDirections:" : "SH 1/13/2013 13:20:44.358",
+		"oppositeDirection:" : "SH 1/13/2013 13:21:01.452",
+		"sort:" : "SH 2/7/2013 23:50:51.882",
+		"twelveDirections" : "SH 1/13/2013 13:21:34.64" },
+	"instance" : {
+		 } }

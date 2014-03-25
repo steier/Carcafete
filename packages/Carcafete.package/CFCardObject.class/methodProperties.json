@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addConnectorAt:" : "SH 2/7/2013 17:23:35.857",
+		"addConnectorsAt:" : "SH 1/12/2013 00:36:19.314",
+		"card" : "SH 1/12/2013 00:36:22.85",
+		"card:" : "SH 1/12/2013 00:36:26.31",
+		"connectorAt:" : "SH 2/7/2013 22:34:00.488",
+		"connectors" : "SH 1/12/2013 00:36:47.297",
+		"connectors:" : "SH 1/12/2013 00:36:51.365",
+		"directions" : "SH 2/7/2013 17:24:30.744",
+		"draw" : "SH 2/7/2013 22:37:25.393",
+		"drawCertainObject:" : "SH 2/7/2013 17:26:24.806",
+		"figurePosition" : "SH 1/12/2013 00:38:26.651",
+		"figurePosition:" : "SH 1/12/2013 00:38:30.779",
+		"figureSlot" : "SH 1/12/2013 00:38:34.473",
+		"figureSlot:" : "SH 1/12/2013 00:38:38.742",
+		"forAllConnected:" : "SH 2/7/2013 22:40:15.758",
+		"hideFigureSlot" : "SH 1/12/2013 00:40:43.175",
+		"ifOccupied:" : "SH 2/7/2013 22:29:08.837",
+		"initializeWith:" : "SH 2/7/2013 17:30:51.496",
+		"isOccupying:" : "SH 2/7/2013 17:29:58.691",
+		"rotateBy:" : "SH 1/12/2013 00:42:26.107",
+		"rotateLeft" : "SH 1/12/2013 00:42:35.388",
+		"showFigure:" : "SH 2/7/2013 17:56:14.242",
+		"showFigureSlotWith:" : "SH 2/7/2013 22:41:35.632" } }

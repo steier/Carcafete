@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"new:" : "SH 2/7/2013 22:43:52.004" },
+	"instance" : {
+		"forAllConnected:" : "SH 1/12/2013 00:53:07.718",
+		"getPartValue" : "SH 1/12/2013 00:54:30.408",
+		"removeFiguresIfCompleted" : "SH 1/12/2013 00:55:08.731" } }

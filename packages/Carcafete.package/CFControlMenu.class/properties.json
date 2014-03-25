@@ -1,0 +1,18 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sketch",
+		"buttonLayer",
+		"actionSelect",
+		"students",
+		"game" ],
+	"name" : "CFControlMenu",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

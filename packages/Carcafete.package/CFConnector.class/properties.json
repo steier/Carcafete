@@ -1,0 +1,16 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"direction",
+		"cardObject",
+		"counterpart" ],
+	"name" : "CFConnector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CFPositionUtil",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

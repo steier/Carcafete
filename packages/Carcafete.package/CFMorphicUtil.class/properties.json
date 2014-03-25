@@ -1,0 +1,14 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FlyweightStore" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CFMorphicUtil",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

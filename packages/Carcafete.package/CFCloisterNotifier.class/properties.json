@@ -1,0 +1,14 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"realCloister" ],
+	"name" : "CFCloisterNotifier",
+	"pools" : [
+		 ],
+	"super" : "CFCardObject",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"connect:at:with:at:" : "SH 1/11/2013 22:56:32.934" },
+	"instance" : {
+		"addSpacerAt:" : "SH 2/7/2013 18:44:45.429",
+		"addSpacerAt:with:with:with:" : "SH 2/7/2013 18:49:39.089",
+		"game" : "SH 1/13/2013 14:42:17.586",
+		"game:" : "SH 1/13/2013 14:42:21.922",
+		"initializeWith:" : "SH 2/7/2013 18:50:36.927",
+		"neighbourAt:" : "SH 2/7/2013 21:57:28.969",
+		"neighbourCards" : "SH 1/11/2013 22:53:55.945",
+		"neighbourCards:" : "SH 1/11/2013 22:53:59.811",
+		"placeNewSpacer:at:" : "SH 2/7/2013 18:51:58.91",
+		"setNeighbour:at:" : "SH 1/11/2013 22:54:06.075",
+		"surroundWithSpacers" : "SH 1/11/2013 22:54:13.387" } }

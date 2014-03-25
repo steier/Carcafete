@@ -1,0 +1,4 @@
+modifying
+handlesMouseUp: anEvent
+
+	^true

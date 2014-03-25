@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"new:with:" : "SH 2/7/2013 22:45:16.972" },
+	"instance" : {
+		"draw" : "SH 1/12/2013 00:57:19.518",
+		"getValue" : "SH 1/12/2013 00:57:26.18",
+		"realCloister" : "SH 1/12/2013 00:57:29.722",
+		"realCloister:" : "SH 1/12/2013 00:57:33.495",
+		"removeFiguresIfCompleted" : "SH 1/12/2013 00:58:07.565",
+		"showFigureSlotWith:" : "SH 1/13/2013 19:26:15.192" } }

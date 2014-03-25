@@ -1,0 +1,4 @@
+accessing
+flyweightStore
+
+	^ FlyweightStore

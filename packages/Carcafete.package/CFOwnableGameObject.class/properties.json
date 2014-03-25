@@ -1,0 +1,14 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JJ 11/30/2012 15:56:04.777",
+	"instvars" : [
+		"owner" ],
+	"name" : "CFOwnableGameObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

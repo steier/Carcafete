@@ -1,0 +1,4 @@
+accessing
+getPartValue
+
+	^1

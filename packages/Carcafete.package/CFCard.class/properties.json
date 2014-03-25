@@ -1,0 +1,17 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"figureSlot",
+		"isPlaced",
+		"okButtonPosition",
+		"cardObjects" ],
+	"name" : "CFCard",
+	"pools" : [
+		 ],
+	"super" : "CFCardSpacer",
+	"type" : "normal" }

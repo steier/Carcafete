@@ -1,0 +1,14 @@
+{
+	"category" : "Carcafete-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CFPutCardsToGridTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

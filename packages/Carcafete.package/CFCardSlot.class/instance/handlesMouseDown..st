@@ -1,0 +1,4 @@
+ui
+handlesMouseDown: anEvent
+	
+	^false

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"forAllConnected:" : "SH 2/7/2013 22:30:54.941",
+		"getPartValue" : "SH 2/7/2013 22:31:01.778",
+		"getValue" : "SH 1/20/2013 13:19:43.223",
+		"initialize" : "SH 2/7/2013 22:31:45.666",
+		"nextLine" : "JS 12/31/2012 00:29:35.259",
+		"owner" : "SH 1/12/2013 00:33:09.807",
+		"owner:" : "SH 1/12/2013 00:33:17.312",
+		"placeFigure" : "SH 2/7/2013 19:24:12.647",
+		"removeFiguresIfCompleted" : "SH 1/12/2013 00:34:32.749",
+		"valueFactorForFinished" : "SH 1/12/2013 00:35:37.244" } }

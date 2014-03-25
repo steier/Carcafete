@@ -1,0 +1,23 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"game",
+		"shadow",
+		"figureBox",
+		"pointLabel",
+		"points",
+		"engagedFigures",
+		"vacantFigures",
+		"currentCard",
+		"currentFigureSlot",
+		"studentID" ],
+	"name" : "CFPlayer",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

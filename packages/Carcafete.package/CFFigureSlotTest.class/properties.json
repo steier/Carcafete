@@ -1,0 +1,14 @@
+{
+	"category" : "Carcafete-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CFFigureSlotTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connectors",
+		"card",
+		"figurePosition",
+		"figureSlot" ],
+	"name" : "CFCardObject",
+	"pools" : [
+		 ],
+	"super" : "CFOwnableGameObject",
+	"type" : "normal" }

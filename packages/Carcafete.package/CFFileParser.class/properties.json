@@ -1,0 +1,15 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"line",
+		"file" ],
+	"name" : "CFFileParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

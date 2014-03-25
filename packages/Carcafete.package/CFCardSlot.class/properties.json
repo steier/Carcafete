@@ -1,0 +1,14 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"card" ],
+	"name" : "CFCardSlot",
+	"pools" : [
+		 ],
+	"super" : "CFCardSpacer",
+	"type" : "normal" }

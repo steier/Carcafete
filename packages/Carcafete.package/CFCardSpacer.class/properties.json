@@ -1,0 +1,15 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"game",
+		"neighbourCards" ],
+	"name" : "CFCardSpacer",
+	"pools" : [
+		 ],
+	"super" : "TransformationMorph",
+	"type" : "normal" }

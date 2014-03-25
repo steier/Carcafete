@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"new:" : "SH 2/7/2013 19:21:30.897" },
+	"instance" : {
+		"card" : "JJ 1/2/2013 17:41:25.653",
+		"card:" : "JJ 1/2/2013 17:41:27.722",
+		"confirmCard" : "SH 2/7/2013 19:00:22.08",
+		"doesCardFitInSlot:" : "SH 1/11/2013 23:30:57.336",
+		"drawWith:at:" : "SH 2/7/2013 19:04:50.474",
+		"handlesMouseDown:" : "SH 2/7/2013 19:05:04.458",
+		"ifNotSpacer:" : "JS 1/2/2013 00:58:04.94",
+		"initializeWith:" : "SH 1/13/2013 15:06:03.219",
+		"placeCard" : "SH 2/7/2013 19:08:10.778" } }

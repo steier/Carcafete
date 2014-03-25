@@ -1,0 +1,15 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cards",
+		"game" ],
+	"name" : "CFCardStack",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

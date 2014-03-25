@@ -1,0 +1,14 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"hasEmblem" ],
+	"name" : "CFCastle",
+	"pools" : [
+		 ],
+	"super" : "CFCardObject",
+	"type" : "normal" }

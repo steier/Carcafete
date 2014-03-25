@@ -1,0 +1,18 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"picture",
+		"lastColor",
+		"activate",
+		"colorSet",
+		"baseColor" ],
+	"name" : "CFStudentID",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

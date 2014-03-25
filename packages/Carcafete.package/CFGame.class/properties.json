@@ -1,0 +1,20 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UniqueInstance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cardArea",
+		"players",
+		"cardStack",
+		"startCard",
+		"slots",
+		"controlMenu",
+		"currentPlayer" ],
+	"name" : "CFGame",
+	"pools" : [
+		 ],
+	"super" : "PasteUpMorph",
+	"type" : "normal" }

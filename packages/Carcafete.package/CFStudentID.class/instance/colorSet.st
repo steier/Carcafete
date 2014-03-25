@@ -1,0 +1,4 @@
+accessing
+colorSet
+
+	^ colorSet

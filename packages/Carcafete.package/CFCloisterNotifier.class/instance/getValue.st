@@ -1,0 +1,4 @@
+accessing
+getValue 
+
+	^0

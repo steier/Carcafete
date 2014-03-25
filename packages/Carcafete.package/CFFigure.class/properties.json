@@ -1,0 +1,15 @@
+{
+	"category" : "Carcafete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"player",
+		"cardObject" ],
+	"name" : "CFFigure",
+	"pools" : [
+		 ],
+	"super" : "TransformationMorph",
+	"type" : "normal" }
